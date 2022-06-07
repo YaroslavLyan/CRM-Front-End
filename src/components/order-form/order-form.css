@@ -1,0 +1,56 @@
+
+.blok-order {
+    padding: 32px;
+    margin: 24px;
+    background-color: #fff;
+}
+
+.form-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.input-cont {
+    flex: 1;
+    margin-right: 8px;
+}
+
+.input-title {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+    height:fit-content;
+}
+
+.name-cont {
+    margin: -44px 0px 16px 0px;
+    background-color:#488ef7;
+    width: fit-content;
+    padding: 6px;
+    border-radius: 5px;
+    color: #fff;
+
+
+}
+
+.name-cont>h6 {
+    margin-bottom: 0px;
+    line-height: 1;
+}
+
+.fa-address-book {
+    border: none;
+    color:#488ef7;
+    background-color:#fff;
+    outline: none;
+    margin: 3px;
+}
+
+.error {
+    color:red;
+    font-size:small;
+}

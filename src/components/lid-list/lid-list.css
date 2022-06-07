@@ -1,0 +1,13 @@
+.lid-displ {
+    display:none;
+}
+
+.btn-to-dial {
+    border: none;
+    border-radius: 5px;
+    color:rgb(1, 49, 1)
+}
+
+.btn-to-dial :hover {
+    box-shadow: 3px 3px 3px rgba(15, 15, 15, 0.288);
+}

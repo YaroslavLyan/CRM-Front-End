@@ -1,0 +1,38 @@
+.card {
+    max-width: 50%;
+    margin: 10px 10px 10px auto;
+    box-shadow: 0 2px 2px 0 rgba(22, 22, 22, 0.192);
+    
+}
+
+.filter-form {
+    width: 40%;
+    padding: 10px 10px 10px 10px;
+    float:left;
+}
+
+.btn-primary {
+    background-color: #6393aa;
+    border-color: #6393aa;
+    box-shadow: 0 2px 2px 0 rgba(22, 22, 22, 0.192);
+}
+
+.btn-primary:hover {
+    background-color: #4a86a1;
+    border-color: #6393aa;
+    box-shadow: 0 4px 4px 0 rgba(22, 22, 22, 0.192);
+}
+
+.m-order {
+    height:auto;
+    width: auto;
+    margin: 1.75rem 16rem 0rem 16rem;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.content-form {
+    height:400px;
+    overflow: auto;
+}
+

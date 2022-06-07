@@ -1,0 +1,144 @@
+.btn-primary {
+    width: 100%;
+}
+
+
+.blok-add-order {
+    background-color: #fff;
+}
+
+
+.blok-order-form {
+    padding: 32px;
+    margin: 24px;
+    background-color: #fff;
+}
+
+.form-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.form-line-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.input-cont {
+    flex: 1;
+    margin-right: 8px;
+}
+
+.input-title {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+    height:fit-content;
+}
+
+.name-cont {
+    margin: -44px 0px 16px 0px;
+    background-color:#488ef7;
+    width: fit-content;
+    padding: 6px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.name-cont-form {
+    margin: -44px 0px 16px 0px;
+    background-color:#488ef7;
+    width: fit-content;
+    padding: 6px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.name-cont>h6 {
+    margin-bottom: 0px;
+    line-height: 1;
+}
+
+.fa-address-book {
+    border: none;
+    color:#488ef7;
+    background-color:#fff;
+    outline: none;
+    margin: 3px;
+}
+
+.error {
+    color:red;
+    font-size:small;
+}
+
+.modal-add-client-list {
+    padding: 1px 0px 2px 0px;
+}
+
+.modal-add-client-item {
+    width: 100%;
+}
+
+.btm-add-client-list {
+    width:auto;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.input-hidden {
+    display: none;
+}
+
+.blok-change-status {
+    height: 400px;
+    overflow: auto;
+}
+
+.m-order {
+    height:auto;
+    width: auto;
+    margin: 1.75rem 16rem 0rem 16rem;
+    position: relative;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 576px) {
+    .modal-dialog {
+        max-width: 700px;
+    }
+}
+
+.block-btm {
+    display: none;
+}
+
+.show-btm {
+    display: block;
+    float: right;
+}
+
+.modal-content{    
+    position:absolute;
+    z-index:999;
+}
+
+.btm-delete-modal{
+    border:none;
+    color: rgb(71, 1, 1);
+    border-radius:5px;
+}
+
+.btm-delete-modal :hover{
+    box-shadow: 3px 3px 3px rgba(15, 15, 15, 0.288);
+}
+
+.vertikal-menu {
+    width: 100%;
+}

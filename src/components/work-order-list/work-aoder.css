@@ -1,0 +1,33 @@
+.work-tab {
+    background-color: white;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.table-work {
+    margin-top: 20px;
+}
+
+Buttom .btn-primary {
+    background-color: white;
+    width: 100px;
+}
+
+.btm-add-new-dial {
+    bottom: 0px;
+    right: 0;
+    position: fixed;
+    font-size: 40px;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 35px;
+    background-color:#6394aabe;
+    border: none;
+    color:rgb(196, 194, 194);
+}
+
+.btm-add-new-dial :hover{
+    background-color:#4d7b91;
+}
+

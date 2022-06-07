@@ -1,0 +1,33 @@
+.page-login{
+    min-width: 200px;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    left: auto;
+    right: auto;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px rgba(15, 15, 15, 0.288);;
+}
+
+.text-top {
+    text-align: center;
+}
+
+.input-div-auth {
+    margin-bottom: 8px;
+}
+
+.input-auth {
+    width: 100%;
+}
+
+.btn-auth {
+    width: 100%;
+    margin: 20px 0px 10px 0px;
+    border: none;
+    box-shadow: 3px 3px 3px rgba(15, 15, 15, 0.288);
+    border-radius: 5px;
+}

@@ -1,0 +1,13 @@
+.seach-client {
+    width: 100%;
+    text-align: right;
+    padding: 10px;
+}
+
+.seach-client-input {
+    width: 50%;
+    border-top:0px;
+    border-bottom:1px solid #333;
+    border-left:0px;
+    border-right:0px;
+}

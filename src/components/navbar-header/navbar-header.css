@@ -1,0 +1,84 @@
+.nav {
+    line-height: 50px;
+    background-color: #6393aa;  
+    text-align: center;
+    color: white;
+    
+    
+}
+
+.nav-left {
+    margin-left: auto;
+}
+
+.n-link {
+    color: #fff;  
+    text-align: center;   
+    padding: 0.5rem 1rem;
+    display: block;
+    text-decoration: none;
+}
+
+.navbar-toggler-icon {
+    margin-left: auto;
+    color: #fff;
+}
+
+.nav-menu {
+    background: #fff;
+    color: #306a85;
+    text-transform: uppercase;
+    padding: 0px 1.5vw 0px 1.5vw;
+    border-radius: 2px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.btm-acard {
+    margin: 5px;
+}
+
+.modal-massege {
+    display: none;
+    background-color: #f7f7f7;
+    color: #000000de;
+    padding: 5px 10px;
+    position: fixed;
+    top: 74px;
+    right: 10px;
+    z-index: 9999;
+    border-radius: 2px;
+    width: 370px;
+    max-width: 90vw;
+    height: fit-content;
+    max-height: 80vh;
+    min-height: 150px;
+    overflow: auto;
+    box-shadow: 0 3px 5px 3px rgb(0 0 0 / 18%), 0 1px 10px 0 rgb(0 0 0 / 12%), 0 2px 4px -1px rgb(0 0 0 / 30%); 
+}
+
+.popup_close {
+  border: none;
+  background: white;  
+  float: right;
+  border-radius: 2px;
+  box-shadow: 1px 1px 1px rgba(15, 15, 15, 0.288);;
+}
+
+.header-event-modal {
+    margin: 10px;
+}
+
+.logaut {
+    position:absolute;
+    bottom:40px;
+}
+
+.display-block-navbar {
+    display: block;
+}
+
+.display-none-navbar {
+    display: none;
+}
